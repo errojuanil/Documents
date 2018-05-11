@@ -1,0 +1,16 @@
+Error while deploying sharepoint Apps (Cloud and Sharepoint hosted apps)
+
+Error occurred in deployment step 'Install app for SharePoint': Sideloading of apps is not enabled on this site.+
+
+
+This is super of all Apps development things:
+
+https://www.dmcinfo.com/latest-thinking/blog/id/9543/how-to-create-a-sharepoint-online-provider-hosted-app
+
+https://technovert.com/what-is-sharepoint-provider-hosted-app/
+
+https://www.credera.com/blog/technology-insights/microsoft-solutions/sharepoint-2013-development-solutions-vs-apps/
+
+https://docs.microsoft.com/en-us/sharepoint/dev/sp-add-ins/get-started-creating-sharepoint-hosted-sharepoint-add-ins
+
+https://www.c-sharpcorner.com/article/deploy-sharepoint-hosted-add-in-app-to-sharepoint-online-in-office-365/
